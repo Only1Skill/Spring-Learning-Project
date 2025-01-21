@@ -51,24 +51,35 @@
 - **База данных**: project1
 ## Скриншоты работы
 ### Страница со всеми людьми(главная)
+![image](https://github.com/user-attachments/assets/107a27a5-c53d-4b69-9dfb-2bb21f5c3b4a)
+
+### Общая страница всех книг
+![image](https://github.com/user-attachments/assets/375faa04-5d14-49cb-976b-155c163c90dd)
+
 
 ### Страница создания пользователя
+![image](https://github.com/user-attachments/assets/cbe4afd6-633e-4857-9d70-a2c2b9d516e6)
 
 
 ### Страница пользователя
-
+![image](https://github.com/user-attachments/assets/06a09992-0ea8-4789-a710-3d67705ee272)
 
 ### Страница редактирования пользователя
+![image](https://github.com/user-attachments/assets/79e9a7f2-0aba-47df-ab2f-85013a941e82)
 
 
 ### Страница создания книги
+![image](https://github.com/user-attachments/assets/7dcd87c6-9d34-4b36-ac50-b738fcda0d43)
 
 
 ### Страница книги
+![image](https://github.com/user-attachments/assets/ce1901fc-92cc-4ae9-a6c9-faf3361abc00)
 
 
 ### Страница книги
+![image](https://github.com/user-attachments/assets/4443c4ea-33cc-43fc-9dc7-ee78cf982bd7)
 
 
 ### Страница пользователя с добавленными книгам
+![image](https://github.com/user-attachments/assets/dd2acd6a-e207-4ab2-947d-f046f9306c41)
 
